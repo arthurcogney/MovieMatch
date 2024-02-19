@@ -1,3 +1,5 @@
+![MovieMatch](https://github.com/arthurcogney/MovieMatch/assets/95025754/73699ba7-4e27-446b-9bfe-1b3dfa5e81c1)
+
 ### Movie Match 2021 - 2022
 
 ## Les bibliothèques nécessaires
@@ -23,6 +25,8 @@ Editer le fichier main_movie_finder.py:
 	'keywords.csv'
 Compiler le fichier graphique.py
 Cliquer sur start puis liker ou non les différents films
+
+![Screenshot_3](https://github.com/arthurcogney/MovieMatch/assets/95025754/01d41c8e-542b-432c-951d-5d75ac8a7681)
 
 ## Problèmes potentiels
 - L'api pour récupérer les poster est gratuite et limité à 1000 requêtes/jours/clé,
